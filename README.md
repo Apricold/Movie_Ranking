@@ -1,7 +1,7 @@
 # Movie_Ranking
 This is a side project that features a movie ranking page, allowing users to search for a movie, rate it, and, through an API, extract a description and an image for display on the homepage.
 
-#Technologies
+# Technologies
 This project was created using HTML, CSS, and Python with Flask library, in order  to save the ranking and the movies information it was used an SQLite database and themoviedb.org API was used to get information and pictures of the chosen movie by the user 
 
 # Home Page
